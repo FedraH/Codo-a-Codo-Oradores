@@ -1,0 +1,61 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card-discounts{
+    text-align: center;
+    margin: 25px -10px 5px;
+}
+
+.card-custom {
+    padding-top: 20px;
+    border: 1px solid rgb(0,123,255);
+}
+
+.blue-border {
+    border: 1px solid rgb(7, 28, 163);
+}
+.green-border{
+    border: 1px solid rgba(10, 105, 3, 0.956);
+}
+
+.yellow-border{
+    border: 1px solid rgba(242, 186, 20, 0.929); 
+}
+
+.card-title {
+    margin-bottom: 1.2rem;
+}
+
+.card-subtitle{
+    margin-bottom: 1.2rem;
+}
+
+label {
+    margin-bottom: 10px;
+}
+
+.result-container{
+    background-color: rgb(204,229,255);
+    border-radius: 5px;
+    justify-content: left;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.result-container p {
+    margin-bottom: 0;
+    padding-left: 10px;
+    font-size: large;
+}
+
+.green-btn {
+    background-color: #76c12c;
+    color: white;
+    margin-bottom: 25px;
+}
